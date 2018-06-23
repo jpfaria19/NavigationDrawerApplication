@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NavigationDrawerApplication</string>
+    <string name="title_activity_drawer">Navigation Drawer</string>
+    <string name="navigation_drawer_open">Abrir a navegação</string>
+    <string name="navigation_drawer_close">Fechar a navegação</string>
+    <string name="nav_header_title">Fulano de Tal</string>
+    <string name="nav_header_subtitle">fulano.detal@al.infnet.edu.br</string>
+    <string name="nav_header_desc">Cabeçalho</string>
+    <string name="action_settings">Configurações</string>
+</resources>

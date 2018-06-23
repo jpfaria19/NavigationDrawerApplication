@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_personInformation"
+            android:icon="@drawable/ic_person_information"
+            android:title="Informações Pessoais" />
+        <item
+            android:id="@+id/nav_schoolEducation"
+            android:icon="@drawable/ic_school_education"
+            android:title="Formação" />
+        <item
+            android:id="@+id/nav_workExperiences"
+            android:icon="@drawable/ic_work_experiences"
+            android:title="Experiência Profissional" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_courses"
+            android:title="Cursos" />
+        <item
+            android:id="@+id/nav_publications"
+            android:icon="@drawable/ic_publications"
+            android:title="Publicações" />
+    </group>
+
+    <item android:title="Comunicação">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Compartilhar" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send_black_24dp"
+                android:title="Enviar" />
+        </menu>
+    </item>
+
+</menu>
